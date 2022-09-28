@@ -35,7 +35,7 @@ if(17 <= hour && hour < 19){
     picture.src = "lunch_image.png"
 }
 
-if(19 <= hour && hour < 6){
+if(19 <= hour && hour < 24){
     msg1.innerText = "GOOD NIGHT !!"
     msg2.innerText = "CLOSE YOUR EYES AND GO TO SLEEP"
     picture.src = "Component 32 – 1.svg"
